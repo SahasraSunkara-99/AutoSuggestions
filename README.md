@@ -1,1 +1,1 @@
-# AutoSuggestions
+# Auto-Suggest
