@@ -1,3 +1,16 @@
 h1{
     color:red;
 }
+#home-intro{
+    text-align: center;
+    /* border: 3px;
+    border-color: black;
+    border-style: dashed;  */
+    border: 3px dashed blueviolet; 
+}
+#home-intro:hover{
+    background-color: blanchedalmond;
+}
+#p2{
+    color: blue;
+}
