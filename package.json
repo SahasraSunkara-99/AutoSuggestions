@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SahasraSunkara-99/AutoSuggestions/issues"
   },
-  "homepage": "https://github.com/SahasraSunkara-99/AutoSuggestions#readme"
+  "homepage": "https://github.com/SahasraSunkara-99/AutoSuggestions#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
