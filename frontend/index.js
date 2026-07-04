@@ -44,9 +44,9 @@ function getRandomUser(){
       // gender
       document.getElementById("card-gender").innerText=gender;
       // name
-      document.getElementById("card-name").innerText=name
+      document.getElementById("card-name").innerText=name;
       // img
-      document.getElementById("img").src=imageUrl
+      document.getElementById("img").src=imageUrl;
     })
 }
 
